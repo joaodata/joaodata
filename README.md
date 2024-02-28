@@ -1,9 +1,9 @@
 # Olá, bem vindo ao meu mundo!
 
 
-- 🔭 Atualmente sou estudante e freelancer na área de analise de dados
-- 🌱 Estou aprimorando minha analise estatistica em python
-- 💬 Ask me about Qualquer coisa, estou sempre disposto a conversar sobre assuntos de interesse mutuo
+- 🔭 Em transição de carreira para a área de dados
+- 🌱 Atualmente sou estudante e freelancer na área de analise de dados
+- 💬 Me pergunte qualquer coisa, estou sempre disposto a conversar sobre assuntos de interesse mutuo
 - 😄 Pronomes: Ele/dele
 
 ## linguagens de programação 🗃️
