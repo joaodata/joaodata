@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ Estudando análise de dados e atuando como freelancer<br>📚 Aprimorando habilidades estatísticas e de business intelligence<br>🎯 Transição de carreira para a área de dados<br>💬 Me pergunte qualquer coisa, estou sempre disposto a conversar sobre assuntos de interesse mutuo<br>😄 Pronomes: Ele/dele</p>
+<p align="left">✨ Analisando dados e sempre estudando<br>📚 Aprimorando habilidades estatísticas e de business intelligence<br>🎯 Transição de carreira para a área de dados<br>💬 Me pergunte qualquer coisa, estou sempre disposto a conversar sobre assuntos de interesse mutuo<br>😄 Pronomes: Ele/dele</p>
 
 ###
 
