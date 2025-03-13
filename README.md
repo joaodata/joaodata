@@ -31,7 +31,6 @@
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="17" />
-  <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo"  />
 </div>
 
 ###
